@@ -8,7 +8,7 @@ A universal joint designed and assembled in **SolidWorks**, created as part of t
 
 | 3D CAD Assembly | 2D Technical Drawing |
 | :---: | :---: |
-| ![Assembly View](docs/Render.png) | ![Drawing](docs/drawing.png) |
+| ![Assembly View](docs/Render.png) | ![Drawing](docs/Drawing.png) |
 ---
 
 ## ⚙️ Key Technical Features
