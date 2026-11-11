@@ -1,4 +1,4 @@
-# Universal Joint (Cardan Joint) — CAD Design & Technical Drafting
+# Universal Joint — CAD Design & Technical Drawing
 
 A universal joint designed and assembled in **SolidWorks**, created as part of the *Design Fundamentals* module at University of Oldenburg.
 
